@@ -1,0 +1,7 @@
+# Abaikan file konfigurasi sensitif
+includes/config.php
+
+# Abaikan folder cache dan log
+*.log
+.DS_Store
+Thumbs.db
